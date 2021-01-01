@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "__MSG_name__",
   "description": "__MSG_app_description__",
   "content_scripts": [{
@@ -21,7 +21,7 @@
     "scripts": ["background.js"]
   },
   "default_locale": "en",
-  "homepage_url": "https://github.com/sveagruva/",
+  "homepage_url": "https://github.com/sveagruva/remove_youtube_tv_button",
   "browser_action": {
     "default_icon": {
       "16": "icons/16_disabled.png",
