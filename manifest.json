@@ -1,11 +1,12 @@
 {
   "manifest_version": 2,
-  "version": "0.1.1",
+  "version": "0.1.2",
   "name": "__MSG_name__",
   "description": "__MSG_app_description__",
   "content_scripts": [{
     "matches": ["*://*.youtube.com/*"],
     "js": ["main.js"],
+    "css": ["style.css"],
     "run_at": "document_end",
     "all_frames": true
   }],
