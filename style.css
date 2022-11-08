@@ -1,3 +1,11 @@
-.remove_yb_tv_button_123323_ok_unique_i_hope{
+.remove_yb_tv_button_123323_ok_unique_i_hope {
+    display: none !important;
+}
+
+.remove_yb_tv_button_extension_unique_id_class{
+    display: none !important;
+}
+
+.ytp-remote-button {
     display: none !important;
 }
